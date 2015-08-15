@@ -58,6 +58,10 @@ for i in range(10):
 ```Smalltalk
 10 timesRepeat: [ 'Hello' print ].
 ````
+코딩을 경험해보지 못한 사람에게도 약간의 영어 단어만 안다면 충분히 어떤 동작을 할지 읽혀지는 코드다. 요즘 어린 학생들이 경험하는 코딩은 이보다 더 귀엽고 잘 읽혀진다.
+
+![Scratch code](/images/scratch_code.png)
+
 
 ## 삶으로 들어온 코딩
 ## 키트 : 만지작거리며 배우는 기술매체
