@@ -92,7 +92,7 @@ for i in range(10):
 
 ![Formal Notation : 뜨개의 언어](/images/formal_notation2.png)
 
-[그림3. 뜨개언어] 패턴을 만드는 뜨개의 언어는 컴퓨터 기계의 언어 구조와 매우 흡사하다.
+[그림3. 뜨개언어] 패턴을 만드는 뜨개의 언어는 컴퓨터 기계언어의 구조와 매우 흡사하다.
 
 ![Formal Notation : 문장수정기호](/images/formal_notation3.png)
 
